@@ -1,0 +1,11 @@
+使うjsライブラリ一覧
+jQuery
+jCanvas
+Underscore
+
+リンク一覧(適当)
+Documentation | jCanvas - http://calebevans.me/projects/jcanvas/docs/
+jQuery - http://jquery.com/
+Underscore.js - 読み書きプログラミング - https://sites.google.com/site/nextliteracy/javascript/underscore-js
+Underscore.js - http://underscorejs.org/
+Underscore.js で JavaScript を楽にしよう : アシアルブログ - http://blog.asial.co.jp/1131
